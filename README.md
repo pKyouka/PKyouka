@@ -4,7 +4,7 @@ just random people and random code.
 ###
 for fun only
 
-![ikigambar][https://imgur.com/a/raGSxUw]
+![ikigambar](https://i.imgur.com/0kb00Qj.jpg)
 
 <!--
 **PKyouka/PKyouka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
