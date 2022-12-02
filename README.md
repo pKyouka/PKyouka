@@ -6,6 +6,8 @@ for fun only
 
 ![PKyouka's GitHub stats](https://github-readme-stats.vercel.app/api?username=PKyouka&show_icons=true&theme=dark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PKYouka&layout=compact)
+
 ![ikigambar](https://i.imgur.com/0kb00Qj.jpg)
 
 <!--
