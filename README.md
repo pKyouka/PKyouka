@@ -4,6 +4,8 @@ just random people and random code.
 ###
 for fun only
 
+![PKyouka's GitHub stats](https://github-readme-stats.vercel.app/api?username=PKyouka&show_icons=true&theme=dark)
+
 ![ikigambar](https://i.imgur.com/0kb00Qj.jpg)
 
 <!--
