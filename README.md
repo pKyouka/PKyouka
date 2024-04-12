@@ -1,6 +1,6 @@
 ### Hi there I'm Using Wangsaff 👋
 
-Saya adalah seorang developer dan juga system administrator yang sangat awam,
+Saya adalah seorang website developer dan juga system administrator yang sangat awam,
 sedang belajar untuk mendapatkan banyak ilmu dari berbagai tempat dan selalu mencari hal baru dimana saja.
 senang menyelesaikan competitive code dari berbagai platform dan belajar dari sana untuk mendapatkan beberapa algoritma baru.
 
