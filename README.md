@@ -1,8 +1,8 @@
 # Hi there I'm Using Wangsaff 👋
 
-Halo! Saya seorang developer website dan system administrator yang haus akan ilmu dan selalu ingin berkembang.
+>Hello! I am a website developer and system administrator who is hungry for knowledge and always looking to improve.
 
-Keahlian saya meliputi bahasa pemrograman seperti python, c, node.js, php, dan juga react.js serta sedang belajar di react.js. Saya terinspirasi oleh keinginan untuk membantu orang-orang yang ingin mengembangkan bisnisnya di bagian web development, dan saya yakin bahwa website development dan system administration adalah kunci untuk membangun masa depan internet yang lebih baik. Beberapa website yang sudah saya kembangkan telah digunakan oleh banyak orang, dan saya juga aktif berkontribusi dalam komunitas developer online. Saya selalu belajar hal baru dan mengikuti perkembangan terbaru di bidang ini.
+>My skills include programming languages like python, c, node.js, php, and also react.js and I am learning in react.js. I am inspired by the desire to help people who want to grow their business in web development, and I believe that website development and system administration are the keys to building a better internet future. Several websites that I have developed have been used by many people, and I also actively contribute to the online developer community. I am always learning new things and following the latest developments in this field.
 
 
 ![PKyouka's GitHub stats](https://github-readme-stats.vercel.app/api?username=PKyouka&show_icons=true&theme=dark)
